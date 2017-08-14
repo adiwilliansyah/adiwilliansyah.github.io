@@ -1,0 +1,57 @@
+* {
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+nav {
+	padding-top: 30px;
+	text-align: center;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+}
+
+nav li a {
+	color: white;
+	text-decoration: none;
+	padding-left: 20px;
+
+}
+
+.contact {
+	text-align: center;
+	color: #454545;
+	background-color: white;
+}
+.contact h5 {
+	padding-top: 15px;
+	font-size: 25px;
+}
+.contact p {
+	text-decoration: none;
+	list-style: none;
+	margin-bottom: 15px;
+}
+
+body {
+	background-color: #454545;
+}
+
+footer {
+	height:30px;
+    background: #054865;
+ 	width: 100%;
+    position:fixed;
+    padding-top: 10px;
+    bottom:0px;
+	padding-left: 0px;
+}
+
+footer h5 {
+	text-align: center;
+	color: white;
+	font-size: 14px;
+
+}

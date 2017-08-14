@@ -1,0 +1,53 @@
+* {
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+nav {
+	padding-top: 30px;
+	text-align: center;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+}
+
+nav li a {
+	color: white;
+	text-decoration: none;
+	padding-left: 20px;
+
+}
+
+body {
+	background-color: #454545;
+	/*background-image: url('../img/commingsoon.jpg');
+	background-repeat: no-repeat;
+	width: 100%;*/
+}
+
+body h1 {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 100px;
+}
+
+
+footer {
+	height:30px;
+    background: #054865;
+ 	width: 100%;
+    position:fixed;
+    padding-top: 10px;
+    bottom:0px;
+	padding-left: 0px;
+}
+
+footer h5 {
+	text-align: center;
+	color: white;
+	font-size: 14px;
+
+}
